@@ -1,0 +1,4 @@
+discord
+colorama
+rsnchat
+python-dotenv
