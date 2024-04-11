@@ -56,7 +56,9 @@ type
 
 ### 
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button-v2.svg)](https://glitch.com/edit/#!/remix/https://github.com/TheAxes/Discord-AIChatBot)
+[![Run on Repl.it](https://repl.it/badge/github/replit/replbox)](https://replit.com/github/TheAxes/Discord-AIChatBot)
 
+<a href="https://www.buymeacoffee.com/AshOp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 Owned By: youtube.com/@theaxes
 Support: discord.gg/willcomesoooooonlmao
