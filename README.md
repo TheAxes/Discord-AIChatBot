@@ -61,7 +61,8 @@ type
 <a href="https://www.buymeacoffee.com/AshOp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 Owned By: youtube.com/@theaxes
-Support: discord.gg/willcomesoooooonlmao
+
+Support: [Click Here](https://discord.gg/XRPh9xm3es)
 
 
 
