@@ -52,7 +52,8 @@ type
 > `Use /help` For Help Menu
 
 > Vedio Tutorial
-> coming soon...
+
+[![https://cdn.discordapp.com/attachments/1224394735251230830/1228546040068571197/Was_FreehandNP_20240412_231802_0000.png?ex=662c6fa9&is=6619faa9&hm=23fb8d3229a85bb040125cae506ab980100c20aa02ffc0f34c7f20174ee43329&](https://img.youtube.com/vi/t9n7zOc8zHI/0.jpg)]
 
 ### 
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button-v2.svg)](https://glitch.com/edit/#!/remix/https://github.com/TheAxes/Discord-AIChatBot)
